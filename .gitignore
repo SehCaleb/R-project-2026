@@ -1,0 +1,13 @@
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Generated output (plots & CSVs are reproducible — omit from git)
+plots/
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
